@@ -1,7 +1,6 @@
 ### Olá me chamo Marlon Correia
 
 - 🌱 Estudando Typescript/React.JS
-- 👯 I’m looking to collaborate on ...
 - 💬 meu email: rafacorreia203@gmail.com
 
 <div align="center">
